@@ -1,0 +1,2 @@
+# file_and_folder_segregation
+ file_and_folder_segregation using uipath
